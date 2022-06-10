@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ttvyoghurt
+- 👋 Hi, I’m @Kr0gurt, and I am a professional dumbass.
 - 👀 I’m interested in game dev
 - 🌱 I’m currently learning unity and c#
 - 💞️ I’m looking to collaborate on game jams in the future
